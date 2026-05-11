@@ -12,7 +12,7 @@
         "source": "git-subdir",
         "url": "https://github.com/CommitLabsLtd/GhostMode.git",
         "path": "plugins/claude_code",
-        "ref": "main"
+        "ref": "master"
       },
       "description": "GhostMode AI coding agent plugin",
       "version": "0.2.0",
